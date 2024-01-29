@@ -9,4 +9,6 @@
 <分支fenzhi1中修改a.txt>
 
 <主分支main中添加不同的一行>
-cccc
+bbbbbbbbbbbbbbbbbbbbbbbbbbb
+<同事在这里添加了一行，我添加不同的内容>
+
