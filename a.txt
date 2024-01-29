@@ -5,3 +5,7 @@
 看是否能把本地master分支的最新修改推送到github
 
 <主分支main分出dev分支，dev中修改a.txt>
+
+<分支fenzhi1中修改a.txt>
+
+<主分支main中添加不同的一行>
